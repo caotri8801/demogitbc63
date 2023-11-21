@@ -14,7 +14,7 @@ git add -A (Dua nhung file dc thay doi, ngoai tru vua tao moiws thi ko dua  vao 
 # add commit
 git commit -m "noi dung first commit"
 
-# connect local (pc) to remote repo(git)
+# connect local (pc) to remote repo(git) (lam 1 lan)
 git remote add origin <go to github to get link>
 # push code from local to remote
 git push -u origin main
