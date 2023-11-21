@@ -51,3 +51,5 @@ git branch <ten branch> =>tạo branch mới
 # git checkout -b <tên branch> => tạo và switch sang branch
 
 # git branch -m <tên branch mới> => đổi tên branch
+
+# git branch -D <tên branch> => xóa branch
