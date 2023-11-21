@@ -26,4 +26,30 @@ git reset < ten file >
 git restore (change files from changes to working directory)
 
 
-aa
+# git checkout (đua file về trạng thái ban đầu)
+git checkout < ten file >
+git checkout . (take all file về trạng thái ban đầu)
+
+# git log --oneline
+xem commit history
+git log (show full)
+nhấn Q để exit
+"ad5aa61 noi dung second commi"
+ad5aa61: ma hash (để co thể quay reverse lại vers)
+
+# git clone < link >
+down src code về
+
+# add people làm nhóm -> tạo repo -> setting -> add email -> đồng ý
+
+# git branch
+liệt kê branch đang có
+git branch <ten branch> =>tạo branch mới
+
+# git switch <tên branch> => chuyển qua branch <tên branch>
+
+# git checkout -b <tên branch> => tạo và switch sang branch
+
+# git branch -m <tên branch mới> => đổi tên branch
+
+# git branch -D <tên branch> => xóa branch
