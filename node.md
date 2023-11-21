@@ -17,4 +17,5 @@ git commit -m "noi dung first commit"
 # connect local (pc) to remote repo(git) (lam 1 lan)
 git remote add origin <go to github to get link>
 # push code from local to remote
-git push -u origin main
+git push -u origin main (chi can go day du ở lần push đầu tiên)
+ lần sau chỉ cần git push
