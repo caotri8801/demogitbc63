@@ -19,3 +19,11 @@ git remote add origin <go to github to get link>
 # push code from local to remote
 git push -u origin main (chi can go day du ở lần push đầu tiên)
  lần sau chỉ cần git push
+
+git reset (change files from staged to changes)
+git reset.
+git reset < ten file >
+git restore (change files from changes to working directory)
+
+
+aa
