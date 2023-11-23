@@ -53,14 +53,15 @@ git branch <ten branch> =>tạo branch mới
 # git branch -m <tên branch mới> => đổi tên branch
 
 # git branch -D <tên branch> => xóa branch
-
+dung o branch khac moi xoa dc
 # git pull origin main => pull code mới nhất từ git về
 
 # xu ly conflict
 switch branch main
+git pull origin main
 git checkout -b merge/conflict
 git switch merge/confl
-git pull origin main
+(neu co r thì chạy lệnh git pull origin main)
 git merge <ten nhanh dang confli>
 xu ly xung dot
 git add .
