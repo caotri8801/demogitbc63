@@ -55,3 +55,16 @@ git branch <ten branch> =>tạo branch mới
 # git branch -D <tên branch> => xóa branch
 
 # git pull origin main => pull code mới nhất từ git về
+
+# xu ly conflict
+switch branch main
+git checkout -b merge/conflict
+git switch merge/confl
+git pull origin main
+git merge <ten nhanh dang confli>
+xu ly xung dot
+git add .
+git commit -m "fix "
+switch branch ddang xung dot
+git merge merge/confl
+git push
